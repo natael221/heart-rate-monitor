@@ -1,9 +1,9 @@
 {
   "rewrites": [
-    { "source": "/api/:slug", "destination": "/api/handler.js" }
+    { "source": "/index.html", "destination": "/login" }
   ],
   "redirects": [
-    { "source": "/index.html", "destination": "/login", "permanent": true }
+    { "source": "/old-path", "destination": "/new-path", "permanent": true }
   ],
   "headers": [
     {
