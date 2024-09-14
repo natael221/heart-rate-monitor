@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/index.html", "destination": "/login" }
+    { "source": "/dashboard.html", "destination": "/dashboard" }
   ],
   "redirects": [
     { "source": "/old-path", "destination": "/new-path", "permanent": true }
