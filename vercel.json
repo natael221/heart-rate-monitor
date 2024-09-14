@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    { "source": "/api/:slug", "destination": "/api/handler.js" }
+  ],
+  "redirects": [
+    { "source": "/index.html", "destination": "/login", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Custom-Header", "value": "MyValue" }
+      ]
+    }
+  ]
+}
