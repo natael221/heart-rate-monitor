@@ -33,10 +33,10 @@ It was developed with a focus on clean UI, accessible data presentation, and use
 
 ```
 📁 heart-rate-monitor-main
-🔾️ index.html          # Landing page
-🔾️ dashboard.html      # Real-time heart rate data dashboard
-🔾️ table.html          # Historical data table
-🔾️ profile.html        # User profile page
+🖾️ index.html          # Landing page
+🖾️ dashboard.html      # Real-time heart rate data dashboard
+🖾️ table.html          # Historical data table
+🖾️ profile.html        # User profile page
 📁 app-assets/         # CSS, JS, and image assets
 ```
 
@@ -44,7 +44,7 @@ It was developed with a focus on clean UI, accessible data presentation, and use
 
 ## 📸 Screenshots
 
-*Coming soon*
+![Demo](app-assets/demo.png)
 
 ---
 
