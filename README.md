@@ -44,7 +44,7 @@ It was developed with a focus on clean UI, accessible data presentation, and use
 
 ## 📸 Screenshots
 
-![Demo](app-assets/ssdemo.png)
+![Demo](app-assets/demo.png)
 
 ---
 
